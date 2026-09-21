@@ -8,48 +8,46 @@
  ████   ████  █    █ █    █  ████  █   ██ █      █████  █████  █████  ████   ████
 ```
 
-> **Independent software for people who ship.**
+> **Independent software that tells you the truth about your numbers.**
 
-Commonfields is an independent software collective building small, fast,
-open-source tools for developers and indie builders. Our direction is simple:
-software you own, running on machines you control, that respects your data
-and tells you the truth about what it can and cannot do.
+Commonfields is an independent software collective building focused tools for
+builders and sellers. Our direction is simple: take a number that matters but
+is hard to see clearly — how often AI answers mention your brand, whether your
+ads are truly profitable — and make it visible, so you can act on facts
+instead of gut feel.
 
 ---
 
 ## Our direction
 
-- **Own your tools.** Native binaries and open code you can inspect, fork, and
-  run forever — no accounts, no subscriptions, no hosted lock-in.
-- **Your data stays yours.** Local-first by design: your work lives on your
-  machine, not in someone else's cloud. No telemetry, ever.
-- **Small things, done well.** We prefer focused tools that do one job
-  excellently over platforms that do everything mediocrely.
-- **Honest software.** We report probabilities, not promises — and document
-  limitations alongside features.
-- **Free to start.** MIT-licensed. Free tiers that are actually free, and
-  local options (like Ollama) wherever a model is involved.
+- **Clarity over vanity metrics.** ROAS looks high, GMV goes up — but are you
+  actually profitable? AI answers look confident — but do they mention you? We
+  build the tool that answers the uncomfortable question.
+- **Small things, done well.** Focused tools that do one job excellently,
+  instead of platforms that do everything mediocrely.
+- **Honest software.** We report what the data says — probabilities, not
+  promises — and document limitations alongside features.
+- **Built in the open.** Our code is public. Open an issue, fork a repo,
+  send a PR.
 
-## Focus areas
+## What we work on
 
-- 🛠️ **Developer tools** — CLIs, small GUIs, and workflows that respect a
-  builder's time and terminal.
-- 🔒 **Privacy-preserving software** — local-first architectures, zero
-  telemetry, user-controlled data.
-- 🤖 **Applied AI tooling** — practical uses of LLMs (measurement, content,
-  automation) without the SaaS wrapper.
+- 🤖 **AI visibility** — measuring and improving how brands show up in LLM
+  answers (ChatGPT, Claude, Grok, Perplexity).
+- 💰 **Seller profit intelligence** — helping marketplace sellers know their
+  true margins before scaling ad spend.
 
 ---
 
 ## Projects
 
-| Project | Status | What it is |
-|---------|--------|------------|
-| [**Ghostping**](https://github.com/commonfields/ghostping) | Active | The private, local-first GEO companion — track, generate, and optimize your brand's visibility in AI answers. |
-| [**AdSentry**](https://github.com/commonfields/AdSentry) | Early | Protects your margin before you scale your ads. |
+| Project | What it is |
+|---------|------------|
+| [**Ghostping**](https://github.com/commonfields/ghostping) | The private, local-first GEO companion — track, generate, and optimize your brand's visibility in AI answers. Open-source (MIT), runs on your machine, no SaaS. |
+| [**AdSentry**](https://github.com/commonfields/AdSentry) | Profit intelligence for Shopee sellers — know if your ads are truly profitable, and your maximum safe ad spend, before you increase budget. |
 
-More experiments are always brewing — watch
-https://github.com/orgs/commonfields/repositories for new arrivals.
+New experiments show up at
+https://github.com/orgs/commonfields/repositories as they hatch.
 
 ---
 
@@ -57,4 +55,4 @@ https://github.com/orgs/commonfields/repositories for new arrivals.
 
 - Browse the code: https://github.com/orgs/commonfields/repositories
 - Report bugs / request features: open an issue on the relevant repo
-- All projects are MIT-licensed — forks and PRs welcome
+- Forks and PRs welcome
