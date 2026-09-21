@@ -8,23 +8,25 @@
  ████   ████  █    █ █    █  ████  █   ██ █      █████  █████  █████  ████   ████
 ```
 
-> **Independent software that tells you the truth about your numbers.**
+> **Practical software for essential business operations.**
 
-Commonfields is an independent software collective building focused tools for
-builders and sellers. Our direction is simple: take a number that matters but
-is hard to see clearly — how often AI answers mention your brand, whether your
-ads are truly profitable — and make it visible, so you can act on facts
-instead of gut feel.
+Commonfields builds practical software for the operations real businesses run
+on every day — knowing your margins, protecting your profit, being visible
+where customers look. No bloated platforms, no vanity metrics: focused tools
+that answer the questions a business owner actually asks, with numbers they
+can act on.
 
 ---
 
 ## Our direction
 
-- **Clarity over vanity metrics.** ROAS looks high, GMV goes up — but are you
-  actually profitable? AI answers look confident — but do they mention you? We
-  build the tool that answers the uncomfortable question.
-- **Small things, done well.** Focused tools that do one job excellently,
-  instead of platforms that do everything mediocrely.
+- **Essential operations first.** We build for the work that keeps a business
+  alive: profit, margins, visibility, day-to-day decisions. If it doesn't
+  matter to a real operation, we don't build it.
+- **Practical over impressive.** Software that does its job reliably and gets
+  out of the way — for owners and operators, not just developers.
+- **Clarity over vanity metrics.** We surface the number that matters and say
+  plainly what it means, even when the answer is uncomfortable.
 - **Honest software.** We report what the data says — probabilities, not
   promises — and document limitations alongside features.
 - **Built in the open.** Our code is public. Open an issue, fork a repo,
@@ -32,22 +34,27 @@ instead of gut feel.
 
 ## What we work on
 
-- 🤖 **AI visibility** — measuring and improving how brands show up in LLM
-  answers (ChatGPT, Claude, Grok, Perplexity).
-- 💰 **Seller profit intelligence** — helping marketplace sellers know their
-  true margins before scaling ad spend.
+- 💰 **Profit & margin intelligence** — know your true costs and earnings
+  before you spend, price, or scale.
+- 🤖 **Visibility** — be found and mentioned where customers look, from
+  marketplaces to AI answers.
+- 🧾 **Day-to-day operations** — small, dependable tools for the recurring
+  work of running a business.
 
 ---
 
-## Projects
+## Current projects
+
+Early members of a growing portfolio — more practical tools for real-world
+operations are on the way.
 
 | Project | What it is |
 |---------|------------|
 | [**Ghostping**](https://github.com/commonfields/ghostping) | The private, local-first GEO companion — track, generate, and optimize your brand's visibility in AI answers. Open-source (MIT), runs on your machine, no SaaS. |
 | [**AdSentry**](https://github.com/commonfields/AdSentry) | Profit intelligence for Shopee sellers — know if your ads are truly profitable, and your maximum safe ad spend, before you increase budget. |
 
-New experiments show up at
-https://github.com/orgs/commonfields/repositories as they hatch.
+Follow along at
+https://github.com/orgs/commonfields/repositories as new tools arrive.
 
 ---
 
