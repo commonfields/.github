@@ -46,6 +46,7 @@ and tells you the truth about what it can and cannot do.
 | Project | Status | What it is |
 |---------|--------|------------|
 | [**Ghostping**](https://github.com/commonfields/ghostping) | Active | The private, local-first GEO companion — track, generate, and optimize your brand's visibility in AI answers. |
+| [**AdSentry**](https://github.com/commonfields/AdSentry) | Early | Protects your margin before you scale your ads. |
 
 More experiments are always brewing — watch
 https://github.com/orgs/commonfields/repositories for new arrivals.
