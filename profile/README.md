@@ -47,7 +47,7 @@ operations are on the way.
 | Project | What it is |
 |---------|------------|
 | [**Ghostping**](https://github.com/commonfields/ghostping) | The private, local-first GEO companion — track, generate, and optimize your brand's visibility in AI answers. Open-source (MIT), runs on your machine, no SaaS. |
-| [**AdSentry**](https://github.com/commonfields/AdSentry) | Profit intelligence for Shopee sellers — know if your ads are truly profitable, and your maximum safe ad spend, before you increase budget. |
+| [**adsent**](https://github.com/commonfields/adsent) | Profit intelligence for Shopee sellers — know if your ads are truly profitable, and your maximum safe ad spend, before you increase budget. |
 
 Follow along at
 https://github.com/orgs/commonfields/repositories as new tools arrive.
