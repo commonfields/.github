@@ -1,12 +1,8 @@
 # Commonfields
 
-```
- ████   ████  █    █ █    █  ████  █    █ █████  █████  █████  █      ████    ████
-█      █    █ ██  ██ ██  ██ █    █ ██   █ █        █    █      █      █   █  █
-█      █    █ █ ██ █ █ ██ █ █    █ █ █  █ ████     █    ████   █      █   █   ███
-█      █    █ █    █ █    █ █    █ █  █ █ █        █    █      █      █   █      █
- ████   ████  █    █ █    █  ████  █   ██ █      █████  █████  █████  ████   ████
-```
+<p align="center">
+  <img src="assets/cover.png" width="100%" alt="Commonfields"/>
+</p>
 
 > **Practical software for essential business operations.**
 
