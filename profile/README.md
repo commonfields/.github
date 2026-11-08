@@ -4,50 +4,36 @@
   <img src="assets/cover.png" width="100%" alt="Commonfields"/>
 </p>
 
-> **Practical software for essential business operations.**
+> **Practical software for essential operations.**
 
-Commonfields builds practical software for the operations real businesses run
-on every day — knowing your margins, protecting your profit, being visible
-where customers look. No bloated platforms, no vanity metrics: focused tools
-that answer the questions a business owner actually asks, with numbers they
-can act on.
+Commonfields builds focused, open-source software for the operations real
+businesses actually run on — knowing your profit before you scale an ad,
+resolving incidents together, staying visible where customers look. No bloated
+platforms, no vanity metrics: tools that answer the question the operator is
+actually asking, with numbers they can act on.
 
 ---
 
 ## Our direction
 
-- **Essential operations first.** We build for the work that keeps a business
-  alive: profit, margins, visibility, day-to-day decisions. If it doesn't
-  matter to a real operation, we don't build it.
 - **Practical over impressive.** Software that does its job reliably and gets
   out of the way — for owners and operators, not just developers.
-- **Clarity over vanity metrics.** We surface the number that matters and say
-  plainly what it means, even when the answer is uncomfortable.
 - **Honest software.** We report what the data says — probabilities, not
   promises — and document limitations alongside features.
+- **Small and deliberate.** We scope MVPs tightly and avoid speculative
+  abstractions. If it doesn't matter to a real operation, we don't build it.
 - **Built in the open.** Our code is public. Open an issue, fork a repo,
   send a PR.
-
-## What we work on
-
-- 💰 **Profit & margin intelligence** — know your true costs and earnings
-  before you spend, price, or scale.
-- 🤖 **Visibility** — be found and mentioned where customers look, from
-  marketplaces to AI answers.
-- 🧾 **Day-to-day operations** — small, dependable tools for the recurring
-  work of running a business.
 
 ---
 
 ## Current projects
 
-Early members of a growing portfolio — more practical tools for real-world
-operations are on the way.
-
 | Project | What it is |
 |---------|------------|
-| [**ghostping**](https://github.com/commonfields/ghostping) | The private, local-first GEO companion — track, generate, and optimize your brand's visibility in AI answers. Open-source (MIT), runs on your machine, no SaaS. |
-| [**adsent**](https://github.com/commonfields/adsent) | Profit intelligence for Shopee sellers — know if your ads are truly profitable, and your maximum safe ad spend, before you increase budget. |
+| [**openrecord**](https://github.com/commonfields/openrecord) · MIT · TypeScript | An open, agent-assisted workspace for working on a business's marketing. Give it a website and a goal, connect the accounts it should use (Google, Meta, Stripe, WordPress…), and ask it to investigate or prepare changes — every proposed action needs your approval before it goes live. Observations, human decisions, and recorded work are kept separate, so every result can be traced back to its evidence. |
+| [**darkwood**](https://github.com/commonfields/darkwood) · MIT · Elixir | A small real-time collaborative incident workspace built on Elixir, Phoenix LiveView, PostgreSQL, PubSub, and Presence: incidents with read-only event timelines, annotations, status changes, and live connected responders — with a deliberately small MVP and no speculative abstractions. |
+| [**adsent**](https://github.com/commonfields/adsent) · MIT · TypeScript | Profit-first ad scaling for Shopee sellers, under the name **AdSentry**. It computes break-even ROAS, true profit after COGS and fees, cushion ratio, and max safe ad spend — then gives a green / yellow / red verdict on whether it's safe to scale. The math is deterministic code; AI only interprets results. Not affiliated with Shopee. |
 
 Follow along at
 https://github.com/orgs/commonfields/repositories as new tools arrive.
